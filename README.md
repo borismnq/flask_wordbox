@@ -9,5 +9,5 @@
 - docker-compose up
 
 # Run tests
-
+- Change 'host' value on database.ini file from 'postgresdb' to 'localhost'
 - pipenv run pytest
