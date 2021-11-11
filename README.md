@@ -10,4 +10,5 @@
 
 # Run tests
 - Change 'host' value on database.ini file from 'postgresdb' to 'localhost'
+- docker-compose up postgrestdb (db is needed to run tests)
 - pipenv run pytest
