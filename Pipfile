@@ -8,6 +8,7 @@ flask = "*"
 gunicorn = "*"
 psycopg2-binary = "==2.9.1"
 python-dotenv = "*"
+pytest = "*"
 
 [dev-packages]
 
