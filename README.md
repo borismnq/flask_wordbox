@@ -1,2 +1,3 @@
-# flask_wordbox
-Flask api
+# Run
+
+- docker-compose up
